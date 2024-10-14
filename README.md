@@ -17,7 +17,7 @@ This project is a real-time people counting system using OpenCV for object detec
 ### 1. Clone the repository
 First, clone the project repository from GitHub:
 
-```bash
+````bash
 git clone https://github.com/Harsha0304/Electrono-Amal.git
 cd Electrono-Amal
 # On Windows
